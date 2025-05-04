@@ -1,1 +1,1 @@
-# studyclub-automation
+initial commit
